@@ -1,0 +1,2 @@
+Teacher1: 36: Hue: 3.000.000
+worker1: 30: DaNang: 4.500.000
